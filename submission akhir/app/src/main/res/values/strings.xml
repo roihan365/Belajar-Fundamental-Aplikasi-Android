@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SubmissionRoihan2</string>
+    <string name="splash_text">Punya Roihan Ni Bos</string>
+    <string name="user_name">Nama User %1$d</string>
+    <string name="search_menu">Cari</string>
+    <string name="search_user">Ketikkan Username Github</string>
+    <string name="search_user_home">Silahkan Cari User Github Menggunakan Tombol Pencarian</string>
+    <string name="nama">Nama</string>
+    <string name="username">Username</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="follower_frag">Follower fragment</string>
+    <string name="following_frag">Following fragment</string>
+    <string name="fragmentt">%1$d fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorite_menu">Favorite</string>
+    <string name="setting_menu">Dark Mode</string>
+</resources>
